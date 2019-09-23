@@ -6,6 +6,6 @@
 
 A short notebook to experiment with lineplots, using data from the UN Development Programme's Gender Inequality Index. 
 
-![GII from 2010 - 2015](gii_plot.png)
+![GII from 2010 - 2015](data_and_images/gii_plot.png)
 
 
